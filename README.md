@@ -1,6 +1,6 @@
 # Domates-Timer
 
-Domates-Timer is all you need for your efficient study sessions.
+Domates Timer is all you need for your efficient study sessions.
 
 Study/work for 25 minutes (a Domates), rest for 5 minutes (a short break). After every 4 Domates sessions, enjoy a 10 minute rest (a long break).
 
